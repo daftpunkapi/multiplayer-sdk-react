@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "@dpapi/server": "^1.0.0",
+    "react": "^18.2.0"
+  },
+  "name": "@dpapi/react",
+  "version": "1.0.17",
+  "main": "lib/reactRoom.js",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "author": "thomas & guy",
+  "license": "ISC",
+  "description": "DONE : babel build",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daftpunkapi/multiplayer-sdk-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daftpunkapi/multiplayer-sdk-react/issues"
+  },
+  "homepage": "https://github.com/daftpunkapi/multiplayer-sdk-react#readme"
+}
